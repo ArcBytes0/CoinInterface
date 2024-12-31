@@ -1,2 +1,3 @@
 # CoinInterface
-Created with CodeSandbox
+
+Interface for Coinlayer API using React.js
